@@ -27,7 +27,7 @@ Brackets must open and close a valid expression. Brackets are not used for the N
 
 `"(a+b+c)" - One set of bracket per operator => "((a+b)+c)"`
 
-`"(a+b)\*-c" - Missing a set of brackets => "((a+b)\*-c)"`
+`"(a+b)*-c" - Missing a set of brackets => "((a+b)*-c)"`
 
 ## Methods
 The following methods are in the formula_game_functions class.
